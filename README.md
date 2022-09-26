@@ -1,3 +1,1 @@
-'''
-ello
-'''
+educational purposes only

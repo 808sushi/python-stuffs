@@ -52,12 +52,14 @@ while True:
             else:
                 choices.append(word)
 
-            r = random.choice(choices)
+        if len(choices) > 0:
             print("the given inputs are: ")
             print(', '.join(choices))
             print()
             print("the randomized choice is: " + r)
             print()
+        else:
+            pass
 
     else:
         print("invalid input")

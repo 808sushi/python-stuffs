@@ -51,8 +51,9 @@ while True:
                 break
             else:
                 choices.append(word)
-
+                
         if len(choices) > 0:
+            r = random.choice(choices)
             print("the given inputs are: ")
             print(', '.join(choices))
             print()

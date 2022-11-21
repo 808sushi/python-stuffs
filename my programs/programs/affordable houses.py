@@ -1,6 +1,7 @@
 inp = input("number of cases: ")
 cases = 0
 case = 1
+
 while True:
     if inp.isdigit():
         cases = int(inp)
@@ -8,6 +9,7 @@ while True:
     else:
         cases = input("number of cases must be a whole number: ")
 
+        
 while cases > 0:
     in1 = input("the range of houses (100 max): ")
     in2 = input("your budget (100k max): ")
@@ -26,13 +28,13 @@ while cases > 0:
             in2 = input("your budget must be a whole number over 1 and under 100k: ")
             print()
 
-
-
+            
     while num_of_houses > 0:
         print("enter the prices of each houses (each house costs 1k max)")
         in3 = input("the prices: ")
         print()
 
+        
         while True:
             if in3.isdigit() and 1 <= int(in3) <= 1000:
                 prices.append(in3)

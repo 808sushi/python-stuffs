@@ -1,0 +1,201 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.2">
+  <diagram name="Page-1" id="E0SmlNEo9TAObMuNjSn9">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Initial Compromise" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="599" width="195" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Type of Attack" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="288" y="350" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Malware Attack" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="691" y="107" width="171" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Phishing Attack" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="692" y="402" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="DDoS Attack" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="703" y="599" width="147" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Spread Malware" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="971" y="8" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Steal Credentials" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="967" y="107" width="182" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Collect Data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="984" y="205" width="148" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Send Phishing Emails" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="954" y="303" width="208" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Obtain User Information" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="941" y="402" width="233" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Compromise Accounts" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="949" y="500" width="217" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Overwhelm Trello Servers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="936" y="599" width="243" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Degrade Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1264" y="550" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Gain Unauthorized Access" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1229" y="648" width="245" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Compromise Detection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="253" y="747" width="223" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Immediately Detected" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="667" y="697" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Detected Later" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="692" y="796" width="168" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Investigation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="982" y="796" width="152" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Identify Vulnerability" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1246" y="796" width="211" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Fix Vulnerability" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1536" y="742" width="177" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Implement Security Measures" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1524" y="841" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="228" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="Malware" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="Phishing" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="DDoS" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="911" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="911" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="911" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.99;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="911" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="6" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0;entryX=0;entryY=0.49;" edge="1" parent="1" source="13" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1204" y="574" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0;entryY=0.51;" edge="1" parent="1" source="13" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1204" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.99;entryX=0;entryY=0.49;" edge="1" parent="1" source="2" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="228" y="771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="Internal Monitoring" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=-0.01;entryX=0;entryY=0.5;" edge="1" parent="1" source="16" target="17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="722" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="External Report" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0.98;entryX=0;entryY=0.5;" edge="1" parent="1" source="16" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;" edge="1" parent="1" source="18" target="19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;" edge="1" parent="1" source="19" target="20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="20" target="21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1499" y="766" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0;entryY=0.5;" edge="1" parent="1" source="20" target="22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1499" y="874" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
